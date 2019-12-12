@@ -12,3 +12,6 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
 
 
 https://github.com/czy36mengfei/tensorflow2_tutorials_chinese
+
+
+http://t.cn/R35fElv  
